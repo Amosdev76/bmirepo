@@ -1,2 +1,6 @@
 # bmirepo
-SImple program to calculate  body mass
+Simple program to calculate  body mass
+
+only for testing purpose
+
+
